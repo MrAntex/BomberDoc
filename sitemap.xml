@@ -95,4 +95,19 @@
          <lastmod>2022-01-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
+    <url>
+         <loc>https://mrantex.github.io/BomberDoc/Tests/InventaireDesExigences/</loc>
+         <lastmod>2022-01-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://mrantex.github.io/BomberDoc/Tests/TestMazeMulti/</loc>
+         <lastmod>2022-01-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://mrantex.github.io/BomberDoc/Tests/TestMazeSolo/</loc>
+         <lastmod>2022-01-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
 </urlset>
